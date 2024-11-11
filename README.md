@@ -14,3 +14,36 @@ Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiNWU2OGM5ZTctNGY1Yi00ZjMx
 5.Overall cost of 210M units consumed over the years is $15.84M , out of this water has generated 68.2% of amount.
 
 6.Most of the units consumed on the month April and on particularly Fridays over the years.
+# Recommendations
+
+1. Implement Energy-Efficient Appliances
+
+Replace old water heaters, air conditioners, and cooking appliances with energy-efficient models (e.g., ENERGY STAR-rated) that use less water, gas, and electricity, reducing overall consumption.
+
+
+
+2. Optimize Heating and Cooling Systems
+
+Regularly service HVAC systems, insulate pipes and ducts, and use programmable thermostats to maintain energy efficiency. Set optimal temperature ranges to avoid excessive gas and electricity usage.
+
+
+
+3. Use Water-Saving Fixtures
+
+Install low-flow faucets, showerheads, and dual-flush toilets to reduce water wastage, which in turn lessens the need for energy to heat water, lowering both water and energy bills.
+
+
+
+4. Adopt Smart Lighting and Power Management
+
+Use LED lights and motion sensors, and unplug devices when not in use to prevent "phantom" electricity usage. Smart lighting controls can also adjust based on occupancy and daylight, reducing electricity consumption.
+
+
+
+5. Promote Behavioral Changes and Awareness
+
+Encourage shorter showers, mindful cooking practices (like using the right burner size), and turning off unused lights and appliances. Educating on energy-saving habits helps reduce both immediate and long-term energy consumption across all utilities.
+
+
+
+
